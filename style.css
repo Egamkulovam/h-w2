@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    width: 60%;
+    padding: 2% 2% 2% 2%;
+
+}
+.img{
+    position: fixed;
+
+}
+
+
+.d_container {
+    position: fixed;
+    top: 4%;
+    left: 32%;
+    height: 75.3%;
+    width: 25%;
+    background-color: rgb(51, 47, 47);
+    margin-right: 100%;
+
+
+}
+
+form h1 {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 55px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+form ul {
+    list-style: none;
+    width: 90%;
+    margin: auto;
+    color: rgb(158, 164, 170);
+
+}
+
+form ul li {
+    border-bottom: 1px solid;
+    margin-bottom: 55px;
+    font-size: large;
+}
+
+button {
+    width: 50%;
+    padding: 2%;
+    margin-left: 15px;
+    background-color: rgb(76, 76, 247);
+    color: rgb(225, 231, 236);
+}
+
+span {
+    border-bottom: 1px solid rgb(158, 164, 170);
+    color: rgb(158, 164, 170);
+}
+
+p {
+    width: 80%;
+    margin: auto;
+    color: antiquewhite;
+    text-align: center;
+    padding: 2%;
+}
